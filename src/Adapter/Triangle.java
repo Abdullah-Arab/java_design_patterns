@@ -1,3 +1,5 @@
+package Adapter;
+
 public class Triangle {
 
     public  double b;
