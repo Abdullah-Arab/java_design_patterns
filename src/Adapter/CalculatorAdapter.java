@@ -2,6 +2,9 @@ import Adapter.Rectangle;
 
 public class CalculatorAdapter {
     Calculator calculator;
+   
+
+   
 
 
     public double getArea(Triangle triangle) {

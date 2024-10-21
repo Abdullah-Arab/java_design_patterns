@@ -8,8 +8,6 @@ public class Triangle {
         this.h = h;
     }
 
-    public double getArea() {
-        return 0.5 * b * h;
-    }
+   
 
 }
