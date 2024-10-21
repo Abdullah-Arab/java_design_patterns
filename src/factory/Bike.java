@@ -1,4 +1,4 @@
-
+package factory;
 public class Bike implements Vehicle {
     
     @Override

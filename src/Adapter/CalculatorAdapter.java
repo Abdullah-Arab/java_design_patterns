@@ -1,4 +1,4 @@
-import Adapter.Rectangle;
+package adapter;
 
 public class CalculatorAdapter {
     Calculator calculator;
